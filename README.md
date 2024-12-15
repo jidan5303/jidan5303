@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Jidan Rahman</h1>
+<h1 align="center">Hi 🙋🏻‍♂️, I'm Md. Jidan Rahman</h1>
 <h3 align="center">A passionate full-stack developer specializing in ASP.NET Core (backend) and Angular, crafting scalable, performant, and user-centric web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jidan5303&label=Profile%20views&color=0e75b6&style=flat" alt="jidan5303" /> </p>
