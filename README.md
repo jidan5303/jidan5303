@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jidan5303&label=Profile%20views&color=0e75b6&style=flat" alt="jidan5303" /> </p>
 
-- 🔭 I’m currently working on [Passion Care CRM](https://crmbeta.passioncare.datavanced.com)
+- 🔭 I’m currently working as a Software Engineer at DATAVANCED BD LTD.
 
 - 🌱 I’m currently learning **new asp.net core and angular features**
 
